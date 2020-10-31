@@ -1,0 +1,40 @@
+Statistics,Machine Learning,Deep Learning,R,Python,NLP,Data Engineering,Business,Software,Other
+statistical modeling,regression,neural network,r,python,nlp,aws,product design,java,project
+probability,boltzman machine,keras,ggplot,flask,natural language processing,ec2,project management,c++,research
+normal distribution,k-means,theano,shiny,django,topic modeling,redshift,business development,tableau,ml
+poisson distribution,random forest,face detection,cran,pandas,lda,s3,budgeting,d3,ai
+survival analysis,xgboost,neural network,dplyr,numpy,named entity recognition,docker,goverance and compliance,html,bi
+hypothesis testing,svm,convolutional neural network,tidyr,scikitlearn,pos tagging,kubernetes,systems administration,css,agile
+bayesian inference,naive bayes,cnn,lubridate,sklearn,word2vec,scala,communication,git,
+factor analysis,pca,recurrent neural network,knitr,matplotlib,word embedding,teradata,"a, b test",bash,
+forecasting,decision trees,rnn,,scipy,lsi,google big query,written communication,latex,
+markov chain,svd,yolo,,bokeh,spacy,aws lambda,verbal communication,excel,
+monte carlo,ensemble models,gpu,,statsmodel,gensim,aws emr,problem solving,matlab,
+unstructured data,machine learning,cuda,,,nltk,hive,data analysis,sas,
+structured data,optimization,tensorflow,,,nmf,hadoop,,visualization,
+math,data mining,lstm,,,doc2vec,sql,,software development,
+bayesian statistics,clustering,gan,,,cbow,big and distributed data,,javascript,
+scientific method,predictive modeling,opencv,,,skip gram,database administration,,bash,
+statistics,time series,object detection,,,bert,cloud management,,linux,
+,support vector machines,deep learning,,,chatbot,backend,,jupyter,
+,knn,generative adversarial network,,,bag of words,frontend,,shell,
+,logistic regression,computer vision,,,sentiment analysis,graphical models,,,
+,gbm,,,,,algorithms,,,
+,feature engineering,,,,,data management,,,
+,,,,,,database management,,,
+,,,,,,spark,,,
+,,,,,,mapreduce,,,
+,,,,,,hbase,,,
+,,,,,,nosql,,,
+,,,,,,cloud computing,,,
+,,,,,,big data,,,
+,,,,,,distributed computing,,,
+,,,,,,apache,,,
+,,,,,,architecture,,,
+,,,,,,testing,,,
+,,,,,,azure,,,
+,,,,,,data warehouse,,,
+,,,,,,data cleaning,,,
+,,,,,,data collection,,,
+,,,,,,data ingestion,,,
+,,,,,,data quality,,,
